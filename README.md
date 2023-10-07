@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanbirKaur11
 - 👀 I’m interested in enhancing IT skills.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning Cloud Computing Skills.
 - 💞️ I’m looking to collaborate on knowledge sharing.
 - 📫 How to reach me- Text. 
 
