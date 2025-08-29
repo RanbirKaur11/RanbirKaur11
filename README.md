@@ -27,11 +27,11 @@
 
 ## Writing
 I regularly share articles on Medium covering cloud, DevOps, and IT fundamentals:  
-- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/git-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge-🔀)  
+- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/git-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge)  
 - [From Chaos to Collaboration: The Story of Git & GitHub](https://medium.com/@ranbir11/from-chaos-to-collaboration-the-story-of-git-github)  
 - Additional topics include Linux administration, DevOps practices, and cloud deployments  
 
-Full collection: [Medium Profile](https://medium.com/@ranbir11)  
+Full collection: [Medium Profile](https://medium.com/@ranbir11)
 
 ---
 
