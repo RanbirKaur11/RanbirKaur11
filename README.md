@@ -40,23 +40,16 @@ Currently based in Perth, Australia.
 ---
 
 ## Writing
-I regularly share articles on Medium covering cloud, DevOps, and IT fundamentals:  
-- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/git-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge)  
-- [From Chaos to Collaboration: The Story of Git & GitHub](https://medium.com/@ranbir11/from-chaos-to-collaboration-the-story-of-git-github)  
-- Additional topics include Linux administration, DevOps practices, and cloud deployments  
+I regularly share my insights on cloud, DevOps, Linux, and deployment workflows:  
 
-Full collection: [Medium Profile](https://medium.com/@ranbir11)  
+- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/git-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge-fa42f46a40fa)  
+- [From Chaos to Collaboration: The Story of Git & GitHub](https://medium.com/@ranbir11/from-chaos-to-collaboration-the-story-of-git-github-49f78ac43203)  
+- [Linux Administration Practice – Networking, Process Monitoring & System Info](https://medium.com/@ranbir11/linux-administration-practice-networking-process-monitoring-system-info-a978cce0dcd0)  
+- [From Oracle DBA to DevOps Engineer: Why Linux Commands Are My Strongest Asset](https://medium.com/@ranbir11/from-oracle-dba-to-devops-engineer-why-linux-commands-are-my-strongest-asset-1ff953645f1c)  
+- [Deploy a React App with Nginx on an Ubuntu EC2 (AWS Free Tier)](https://medium.com/@ranbir11/deploy-a-react-app-with-nginx-on-an-ubuntu-ec2-aws-free-tier-70012ee058e9)  
 
----
-
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanbirKaur11&show_icons=true&theme=default" alt="GitHub stats"/>
-</p>
+Full collection here → [My Medium Profile](https://medium.com/@ranbir11)  
 
 ---
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/ranbirkaur/)  
-- [Medium](https://medium.com/@ranbir11)  
-- Open to collaborations, knowledge sharing, and professional networking  
+## GitHub Statisti
