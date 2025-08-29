@@ -14,7 +14,6 @@
 ##  What I’m Learning
 - Deepening expertise in **Cloud Infrastructure (AWS/Azure)**  
 - Building competencies in **DevOps workflows** and CI/CD  
-- Experimenting with **AI-enhanced tooling**
 
 ---
 
