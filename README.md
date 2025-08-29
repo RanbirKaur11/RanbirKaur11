@@ -52,4 +52,4 @@ Full collection here → [My Medium Profile](https://medium.com/@ranbir11)
 
 ---
 
-## GitHub Statisti
+## GitHub Statistics
