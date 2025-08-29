@@ -1,12 +1,26 @@
 # Ranbir Kaur
 
+---
+
 ## About Me
-- Skilled in Oracle and AWS  
-- AWS Solutions Architect – Associate Certified  
-- Microsoft Azure Fundamentals Certified  
-- Strong interest in Cloud Computing, DevOps, and Automation  
-- Enthusiast in AI tools and their practical applications  
-- Based in Perth, Australia  
+I am an IT professional passionate about Cloud Computing, DevOps, and Automation.  
+Skilled in Oracle, AWS, and Linux Administration, with strong problem-solving abilities and a growing interest in AI tools.  
+Currently based in Perth, Australia.  
+
+---
+
+## Certifications
+- AWS Solutions Architect – Associate  
+- Microsoft Azure Fundamentals  
+- Oracle Certified Professional (OCP)  
+
+---
+
+## Skills
+- **Cloud:** AWS, Azure  
+- **Systems:** Linux Administration, Oracle  
+- **DevOps Tools:** Git, GitHub, NGINX, CI/CD workflows  
+- **Other Interests:** AI tools for automation and innovation  
 
 ---
 
@@ -27,11 +41,11 @@
 
 ## Writing
 I regularly share articles on Medium covering cloud, DevOps, and IT fundamentals:  
-- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/%EF%B8%8Fgit-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge-fa42f46a40fa)  
-- [From Chaos to Collaboration: The Story of Git & GitHub](https://medium.com/@ranbir11/from-chaos-to-collaboration-the-story-of-git-github-49f78ac43203)  
+- [Git on Windows: A Friendly, Picture-Ready Guide (From Zero to Merge)](https://medium.com/@ranbir11/git-on-windows-a-friendly-picture-ready-guide-from-zero-to-merge)  
+- [From Chaos to Collaboration: The Story of Git & GitHub](https://medium.com/@ranbir11/from-chaos-to-collaboration-the-story-of-git-github)  
 - Additional topics include Linux administration, DevOps practices, and cloud deployments  
 
-Full collection: [Medium Profile](https://medium.com/@ranbir11)
+Full collection: [Medium Profile](https://medium.com/@ranbir11)  
 
 ---
 
