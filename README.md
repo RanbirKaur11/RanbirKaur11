@@ -32,6 +32,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RanbirKaur11&color=1E90FF&style=for-the-badge" />
+</p>
+
+
 ---
 
 ## GitHub Metrics
