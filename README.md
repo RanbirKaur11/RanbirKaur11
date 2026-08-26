@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Ranbir Kaur DevOps Cloud Infrastructure Banner" />
+  <img src="./portfolio/assets/banner.png" width="100%" alt="Ranbir Kaur DevOps Cloud Infrastructure Banner" />
 </p>
 
 <h1 align="center">Ranbir Kaur</h1>
