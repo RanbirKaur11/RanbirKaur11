@@ -31,7 +31,7 @@ experience:
   - 150+ incidents and change requests handled each month (SLA-driven)
   - Oracle and DB2 databases, monitoring and patching
 focus: [AWS, Docker, Kubernetes, Terraform, GitHub Actions, Agentic AI]
-currently_learning: [Amazon EKS, GitOps with Argo CD, Agentic AI for DevOps, DevSecOps fundamentals]
+currently_building: [Amazon EKS platform on AWS, GitOps with Argo CD, Agentic AI for DevOps]
 community: AWS Community Builder (2026), DevOps co-mentor, 30+ technical articles
 open_to: DevOps Engineer and Cloud Infrastructure roles
 ```
@@ -62,7 +62,7 @@ flowchart LR
     B --> C["AWS Solutions Architect<br/>Associate"]
     C --> D["DevOps projects<br/>Docker · Terraform · K8s"]
     D --> E["AWS Community<br/>Builder 2026"]
-    E --> F["Next: Amazon EKS<br/>and GitOps"]
+    E --> F["Now building: Amazon EKS<br/>platform on AWS"]
 ```
 
 ---
@@ -73,7 +73,7 @@ flowchart LR
 | --- | --- | --- | --- |
 | **BookWiseAU** | Containerised three-tier bookstore: Docker Compose environments, nginx reverse proxy, health checks, review moderation where AI recommends and an admin decides | Docker · Node.js · React · MySQL · nginx | Running locally, moving to AWS |
 | **Enterprise AKS Platform** | Modular Terraform for AKS, VNet, ACR, Key Vault and MySQL across multiple environments with remote state | Terraform · Kubernetes · Azure | Complete |
-| **Amazon EKS Platform** | The same platform design rebuilt on AWS: EKS, VPC, ECR, Secrets Manager and RDS with Terraform | Terraform · Kubernetes · AWS | Planned (next) |
+| **Amazon EKS Platform** | Production-style Kubernetes platform on AWS: EKS, VPC, ECR, Secrets Manager and RDS, provisioned with Terraform | Terraform · Kubernetes · AWS | In progress |
 | **Linux and Infrastructure Operations** | Enterprise production support: incidents, patching, monitoring, Oracle and DB2 | Linux · Bash · Oracle | Professional experience |
 
 ---
@@ -110,16 +110,17 @@ flowchart LR
 
 ---
 
-## Currently learning
+## What I'm working on
 
-- **Amazon EKS** - rebuilding my Terraform platform on AWS
-- **GitOps with Argo CD** - automated, auditable deployments
-- **Agentic AI for DevOps** - AI agents that assist with infrastructure and operations tasks; testing local models with Ollama
-- **DevSecOps fundamentals** - image scanning with Trivy and secret scanning in CI pipelines
+- **Amazon EKS platform** - a production-style Kubernetes platform on AWS, provisioned with Terraform
+- **GitOps with Argo CD** - automated, auditable deployments to Kubernetes
+- **Agentic AI for DevOps** - hands-on testing of AI agents for infrastructure and operations tasks, and running local LLMs with Ollama
 
 ---
 
-## Latest writing
+## Featured articles
+
+Hands-on guides I've published on Medium, written from real projects.
 
 - [Terraform Import in Production: Managing Existing EC2 and Attaching to ALB](https://medium.com/@ranbir11/terraform-import-in-production-managing-existing-ec2-and-attaching-to-alb-57532f695f6b)
 - [Production 3-Tier Web Architecture Explained: AWS EC2, Nginx, Node.js, PM2 and MySQL](https://medium.com/@ranbir11/production-3-tier-web-architecture-explained-aws-ec2-nginx-node-js-0922f40ab492)
@@ -127,7 +128,7 @@ flowchart LR
 - [Linux Administration Practice: Networking, Process Monitoring and System Info](https://medium.com/@ranbir11/linux-administration-practice-networking-process-monitoring-system-info-a978cce0dcd0)
 - [Deploy a React App with Nginx on an Ubuntu EC2 (AWS Free Tier)](https://medium.com/@ranbir11/deploy-a-react-app-with-nginx-on-an-ubuntu-ec2-aws-free-tier-70012ee058e9)
 
-More on [Medium](https://medium.com/@ranbir11).
+Read all 30+ articles on [Medium](https://medium.com/@ranbir11).
 
 ---
 
