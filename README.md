@@ -31,7 +31,7 @@ experience:
   - 150+ incidents and change requests handled each month (SLA-driven)
   - Oracle and DB2 databases, monitoring and patching
 focus: [AWS, Docker, Kubernetes, Terraform, GitHub Actions, Agentic AI]
-currently_building: [Amazon EKS platform on AWS, GitOps with Argo CD, Agentic AI for DevOps]
+currently_building: [Amazon EKS platform on AWS, Agentic AI for DevOps]
 community: AWS Community Builder (2026), DevOps co-mentor, 30+ technical articles
 open_to: DevOps Engineer and Cloud Infrastructure roles
 ```
@@ -48,6 +48,7 @@ open_to: DevOps Engineer and Cloud Infrastructure roles
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Local_LLMs-1E293B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLMs" />
 </p>
@@ -113,8 +114,7 @@ flowchart LR
 ## What I'm working on
 
 - **Amazon EKS platform** - a production-style Kubernetes platform on AWS, provisioned with Terraform
-- **GitOps with Argo CD** - automated, auditable deployments to Kubernetes
-- **Agentic AI for DevOps** - hands-on testing of AI agents for infrastructure and operations tasks, and running local LLMs with Ollama
+- **Agentic AI for DevOps** - AI agents for infrastructure and operations tasks with Amazon Bedrock and Amazon Nova, and local LLMs with Ollama
 
 ---
 
