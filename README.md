@@ -1,195 +1,136 @@
-<!-- Banner -->
+<!-- Banner: animated SVG; clicking it opens ranbirkaur.online -->
 <p align="center">
-  <img src="./portfolio/assets/banner.png" width="100%" alt="Ranbir Kaur DevOps Cloud Infrastructure Banner" />
-</p>
-
-<h1 align="center">Ranbir Kaur</h1>
-
-<p align="center">
-  <b>DevOps Engineer | Cloud Infrastructure | CI/CD Automation | DevSecOps</b>
-</p>
-
-<p align="center">
-  <small>AWS · Azure · Kubernetes · Terraform · Linux · System Automation</small>
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=1E90FF&width=900&center=true&vCenter=true&lines=Linux+%7C+Oracle+DBA+%7C+Enterprise+Infrastructure;Terraform+%7C+Kubernetes+%7C+GitHub+Actions+%7C+ArgoCD;DevSecOps+%7C+Cloud+Architecture+%7C+Automation+Engineering"
-  />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/ranbirkaur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@ranbir11">
-    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="mailto:ranbir11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://ranbirkaur.online">
+    <img src="https://github.com/RanbirKaur11/RanbirKaur11/raw/main/portfolio/assets/banner.svg" width="100%" alt="Ranbir Kaur - DevOps and Cloud Infrastructure Engineer - ranbirkaur.online" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanbirKaur11&color=1E90FF&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1400&color=3FD2FF&center=true&vCenter=true&width=820&lines=AWS+Certified+Solutions+Architect+%E2%80%93+Associate;AWS+Community+Builder+2026;Docker+%7C+Kubernetes+%7C+Terraform+%7C+GitHub+Actions;From+Oracle+DBA+to+DevOps+Engineer" alt="Typing summary" />
 </p>
-
----
-
-## GitHub Metrics
-
-<div align="center">
-  <!-- <img src="https://img.shields.io/github/stars/RanbirKaur11?style=for-the-badge" /> -->
-  <img src="https://img.shields.io/github/followers/RanbirKaur11?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-blue?style=for-the-badge" />
-</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RanbirKaur11&theme=tokyonight&hide_border=true" />
+  <a href="https://ranbirkaur.online"><img src="https://img.shields.io/badge/Website-ranbirkaur.online-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/ranbirkaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ranbir11"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:ranbir11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RanbirKaur11&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+## About me
 
-Cloud and DevOps Engineer with hands-on experience across AWS, Azure, and large-scale enterprise Linux environments supporting production workloads in global MNC projects. Experienced in infrastructure operations, incident management, and production support across **100+ Linux servers**, with strong exposure to **Oracle/DB2 databases, monitoring, and SLA-driven** environments. Handled **150+ monthly incidents and change requests** across cloud and on-prem infrastructure.
-
-* **Current focus:**   Kubernetes orchestration, Terraform IaC, GitOps with Argo CD, and cloud-native DevSecOps  
-* **Open to:**   DevOps Engineer / Cloud Infrastructure roles  
-* **Location:**   Perth, Western Australia · Australian PR · Remote / Hybrid / Onsite-Ready
+```yaml
+name: Ranbir Kaur
+role: DevOps & Cloud Infrastructure Engineer
+location: Perth, Western Australia (Australian PR)
+background: Oracle DBA -> Linux production support -> DevOps
+experience:
+  - Production support for 100+ Linux servers in enterprise environments
+  - 150+ incidents and change requests handled each month (SLA-driven)
+  - Oracle and DB2 databases, monitoring and patching
+focus: [AWS, Docker, Kubernetes, Terraform, GitHub Actions, Agentic AI]
+currently_learning: [Amazon EKS, GitOps with Argo CD, Agentic AI for DevOps, DevSecOps fundamentals]
+community: AWS Community Builder (2026), DevOps co-mentor, 30+ technical articles
+open_to: DevOps Engineer and Cloud Infrastructure roles
+```
 
 ---
 
-## Tech Stack
+## Tech stack
 
-### Cloud
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-FF4F8B?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/ALB-8C4FFF?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazon-cloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_VM-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_VNet-005BA1?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/NSG-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Load_Balancer-00BCF2?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Monitor-68217A?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Storage-0062AD?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Key_Vault-7FBA00?style=flat&logo=microsoftazure&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,docker,kubernetes,terraform,ansible&theme=dark" alt="Cloud, Linux, containers and IaC" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,prometheus,grafana,bash,python,mysql,nginx&theme=dark" alt="CI/CD, monitoring, scripting and databases" />
 </p>
 
-### Containers and Orchestration
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
-</p>
-
-### Infrastructure as Code
-
-<p>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
-</p>
-
-### CI CD and GitOps
-
-<p>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
-<!-- ### DevSecOps Tooling
-<p>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bandit-1F425F?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gitleaks-000000?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadolint-1D4ED8?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/pip_audit-3776AB?style=flat&logo=python&logoColor=white"/>
-</p> -->
-
-### Monitoring and Observability
-
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-</p>
-
-### OS and Scripting
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Local_LLMs-1E293B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Local LLMs" />
 </p>
 
 ---
 
-## Featured Projects
+## My journey
 
-### Enterprise AKS Platform
-
-Enterprise-grade Azure Kubernetes Service platform built using modular Terraform architecture across multiple environments.
-
-**Key implementations**
-
-- Modular Terraform design for AKS, VNet, ACR, Key Vault, and MySQL
-- Multi-environment infrastructure provisioning with remote state management
-- Kubernetes workload deployment with ingress and autoscaling
-- Secure secret management and infrastructure isolation practices
+```mermaid
+flowchart LR
+    A["Oracle DBA<br/>HCL Technologies"] --> B["Linux production<br/>support (100+ servers)"]
+    B --> C["AWS Solutions Architect<br/>Associate"]
+    C --> D["DevOps projects<br/>Docker · Terraform · K8s"]
+    D --> E["AWS Community<br/>Builder 2026"]
+    E --> F["Next: Amazon EKS<br/>and GitOps"]
+```
 
 ---
 
-### Linux and Infrastructure Operations
+## Featured projects
 
-Production support and infrastructure operations experience across enterprise Linux environments.
-
-**Key implementations**
-
-- Supported 100+ Linux servers across enterprise workloads
-- Managed incident response and SLA-driven operational tasks
-- Worked with Oracle and DB2 database environments
-- Performed monitoring, troubleshooting, patching, and system administration activities
+| Project | What it shows | Stack | Status |
+| --- | --- | --- | --- |
+| **BookWiseAU** | Containerised three-tier bookstore: Docker Compose environments, nginx reverse proxy, health checks, review moderation where AI recommends and an admin decides | Docker · Node.js · React · MySQL · nginx | Running locally, moving to AWS |
+| **Enterprise AKS Platform** | Modular Terraform for AKS, VNet, ACR, Key Vault and MySQL across multiple environments with remote state | Terraform · Kubernetes · Azure | Complete |
+| **Amazon EKS Platform** | The same platform design rebuilt on AWS: EKS, VPC, ECR, Secrets Manager and RDS with Terraform | Terraform · Kubernetes · AWS | Planned (next) |
+| **Linux and Infrastructure Operations** | Enterprise production support: incidents, patching, monitoring, Oracle and DB2 | Linux · Bash · Oracle | Professional experience |
 
 ---
 
-## Certifications & Recognition
+## GitHub activity
 
-[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9db4de05-4d48-43b5-85bc-594a7fd3da0b) [![Microsoft Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/ranbirkaur/credentials/a647bf99048f1c54) [![Oracle Certified Professional](https://img.shields.io/badge/Oracle-Certified%20Professional-F80000?style=flat&logo=oracle&logoColor=white)](https://www.credly.com/badges/6d8a09a4-74ca-47d3-a480-92046a73aea5)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanbirKaur11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanbirKaur11&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
 
-- Leadership & Mentorship — DevOps Co-mentor
-- Recognition — AWS Community Builder (2026)
-- Achievements — Champions of the Week, ranked among top 100 participants in DMI by Pravin Mishra (The Cloud Advisory Oy) (2025)
-- Advanced Cloud & DevOps Program — DevOps Micro Internship (2025)
-- Technical Contributions — Technical Author, published 30+ DevOps and Cloud engineering tutorials
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RanbirKaur11&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RanbirKaur11&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+</p>
 
 ---
 
-## Writing and Knowledge Sharing
+## Certifications and recognition
 
-Technical articles focused on Cloud Infrastructure, Linux Administration, DevOps workflows, Kubernetes, and automation practices.
+<p>
+  <a href="https://www.credly.com/badges/9db4de05-4d48-43b5-85bc-594a7fd3da0b"><img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/ranbirkaur/credentials/a647bf99048f1c54"><img src="https://img.shields.io/badge/Azure-Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" /></a>
+  <a href="https://www.credly.com/badges/6d8a09a4-74ca-47d3-a480-92046a73aea5"><img src="https://img.shields.io/badge/Oracle-Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional" /></a>
+</p>
+
+- **AWS Community Builder** (2026)
+- **DevOps co-mentor** in the DevOps Micro Internship
+- **Champion of the Week**, top 100 participants in the DevOps Micro Internship by Pravin Mishra (2025)
+- **Technical author**: 30+ DevOps and cloud tutorials
+
+---
+
+## Currently learning
+
+- **Amazon EKS** - rebuilding my Terraform platform on AWS
+- **GitOps with Argo CD** - automated, auditable deployments
+- **Agentic AI for DevOps** - AI agents that assist with infrastructure and operations tasks; testing local models with Ollama
+- **DevSecOps fundamentals** - image scanning with Trivy and secret scanning in CI pipelines
+
+---
+
+## Latest writing
 
 - [Terraform Import in Production: Managing Existing EC2 and Attaching to ALB](https://medium.com/@ranbir11/terraform-import-in-production-managing-existing-ec2-and-attaching-to-alb-57532f695f6b)
-- [Production 3-Tier Web Architecture Explained: AWS EC2, Nginx, Node.js, PM2 and MySQL with Deployment Commands](https://medium.com/@ranbir11/production-3-tier-web-architecture-explained-aws-ec2-nginx-node-js-0922f40ab492)
-- [Linux Administration Practice – Networking, Process Monitoring & System Info](https://medium.com/@ranbir11/linux-administration-practice-networking-process-monitoring-system-info-a978cce0dcd0)
+- [Production 3-Tier Web Architecture Explained: AWS EC2, Nginx, Node.js, PM2 and MySQL](https://medium.com/@ranbir11/production-3-tier-web-architecture-explained-aws-ec2-nginx-node-js-0922f40ab492)
 - [From Oracle DBA to DevOps Engineer: Why Linux Commands Are My Strongest Asset](https://medium.com/@ranbir11/from-oracle-dba-to-devops-engineer-why-linux-commands-are-my-strongest-asset-1ff953645f1c)
+- [Linux Administration Practice: Networking, Process Monitoring and System Info](https://medium.com/@ranbir11/linux-administration-practice-networking-process-monitoring-system-info-a978cce0dcd0)
 - [Deploy a React App with Nginx on an Ubuntu EC2 (AWS Free Tier)](https://medium.com/@ranbir11/deploy-a-react-app-with-nginx-on-an-ubuntu-ec2-aws-free-tier-70012ee058e9)
 
-📖 **Medium:** https://medium.com/@ranbir11
+More on [Medium](https://medium.com/@ranbir11).
 
 ---
 
 <p align="center">
-  ⭐ Always building scalable infrastructure, automating workflows, and learning cloud-native engineering
+  <sub>Building reliable infrastructure on AWS, one automated pipeline at a time. Thanks for visiting.</sub>
 </p>
