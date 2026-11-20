@@ -13,7 +13,7 @@
   <a href="https://ranbirkaur.online"><img src="https://img.shields.io/badge/Website-ranbirkaur.online-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/ranbirkaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ranbir11"><img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="mailto:ranbir11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ranbir@ranbirkaur.online"><img src="https://img.shields.io/badge/Email-ranbir%40ranbirkaur.online-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email ranbir@ranbirkaur.online" /></a>
   <img src="https://komarev.com/ghpvc/?username=RanbirKaur11&color=1E90FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
